@@ -1,0 +1,13 @@
+img{
+    width: 50%;
+    height: 50%;
+}
+
+a{
+    display: block;
+    color: red;
+}
+
+body{
+    background-color: antiquewhite;
+}
